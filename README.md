@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**xxhhaox/xxhhaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+如果你想打造类似大佬主页那种炫酷风格，可以用下面这种：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```markdown
+# 👋 Hello, I'm biaakuks
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloudflare+Workers+Developer;OpenWrt+Enthusiast;Python+Learner;Open+Source+Explorer" />
+
+## 🚀 Skills
+
+⚡ Cloudflare Workers  
+⚡ OpenWrt  
+⚡ Linux  
+⚡ Python  
+⚡ JavaScript  
+
+## 📚 Currently Learning
+
+- Serverless Development
+- Edge Computing
+- Network Engineering
+- Web Security
+
+## 🌍 Motto
+
+"Build something useful every day."
